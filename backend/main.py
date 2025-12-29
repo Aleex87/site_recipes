@@ -23,15 +23,27 @@ def root():
         "docs": "http://127.0.0.1:8000/docs"
     }
 
-
 @app.post("/recipes")
 def suggest_recipes(user: IngredientsUser):
     user_ingredients = set(user.available_ingredients)
-
-    matching_recipes = []
+    results = []
 
     for recipe in recipes_db:
-        if set(recipe.ingredients).issubset(user_ingredients):
-            matching_recipes.append(recipe)
+        recipe_ingredients = set(recipe.ingredients)
+        matched = recipe_ingredients.intersection(user_ingredients)
+        missing = recipe_ingredients - user_ingredients
 
-    return matching_recipes
+        if matched:
+            results.append({
+                "name": recipe.name,
+                "ingredients": recipe.ingredients,
+                "instructions": recipe.instructions,
+                "matched_ingredients": list(matched),
+                "missing_ingredients": list(missing)
+            })
+
+    results.sort(key=lambda r: len(r["matched_ingredients"]), reverse=True)
+
+    return results
+
+

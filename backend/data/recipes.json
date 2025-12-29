@@ -1,205 +1,3559 @@
 [
   {
-    "name": "Spaghetti with Tomato Sauce",
-    "ingredients": ["spaghetti", "tomato", "olive oil", "salt"],
-    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. In a separate pan, heat olive oil over medium heat and add chopped tomatoes. Simmer for 10 minutes, season with salt, then drain the pasta and mix it with the sauce before serving."
+    "name": "Oven-Baked Chicken with Potatoes",
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with oregano and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Garlic and Oil Pasta",
-    "ingredients": ["spaghetti", "garlic", "olive oil", "chili flakes"],
-    "instructions": "Cook the spaghetti in salted boiling water. Thinly slice the garlic and gently heat it in olive oil until fragrant. Add chili flakes, then toss the drained pasta into the pan and mix well."
+    "name": "Oven-Baked Chicken with Broccoli",
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with butter and season with paprika and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Scrambled Eggs",
-    "ingredients": ["eggs", "butter", "salt"],
-    "instructions": "Crack the eggs into a bowl and beat them lightly with salt. Melt butter in a pan over low heat, add the eggs, and stir continuously until soft and creamy."
+    "name": "Chicken and Onion Sandwich",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "yogurt",
+      "onion",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, yogurt, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Cheese Omelette",
-    "ingredients": ["eggs", "cheese", "salt", "butter"],
-    "instructions": "Beat the eggs with salt. Melt butter in a pan, pour in the eggs, and cook gently. Add grated cheese to one side, fold the omelette, and cook until the cheese melts."
+    "name": "Eggs and Onion Sandwich",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "cheese",
+      "onion",
+      "salt",
+      "mustard",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, cheese, and onion. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Classic Pancakes",
-    "ingredients": ["eggs", "milk", "flour", "sugar"],
-    "instructions": "Mix eggs, milk, flour, and sugar until smooth. Heat a non-stick pan and pour small amounts of batter. Cook until bubbles form, flip, and cook until golden."
+    "name": "Quick Eggs with Cheese",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
   },
   {
-    "name": "Grilled Cheese Sandwich",
-    "ingredients": ["bread", "cheese", "butter"],
-    "instructions": "Butter the bread slices on the outside, place cheese in between, and grill in a pan over medium heat until golden brown and the cheese is melted."
+    "name": "Eggs and Tomato Sandwich",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "tomato",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Simple Green Salad",
-    "ingredients": ["lettuce", "olive oil", "salt"],
-    "instructions": "Wash and dry the lettuce thoroughly. Tear into pieces, season with olive oil and salt, and toss gently before serving."
+    "name": "Noodles with Garlic and Lentils",
+    "ingredients": [
+      "noodles",
+      "garlic",
+      "lentils",
+      "cream",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté garlic until softened. Add lentils and cook until done, then season with oregano. Drain the noodles, toss it in the pan, and finish with cream. Serve hot."
   },
   {
-    "name": "Boiled Rice",
-    "ingredients": ["rice", "water", "salt"],
-    "instructions": "Bring water to a boil with salt. Add rice, cook until tender, drain excess water, and let rest before serving."
+    "name": "Couscous Bowl with Carrot and Chicken",
+    "ingredients": [
+      "couscous",
+      "carrot",
+      "chicken",
+      "butter",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté carrot until fragrant. Add chicken and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
   },
   {
-    "name": "Rice with Tomato Sauce",
-    "ingredients": ["rice", "tomato", "olive oil", "salt"],
-    "instructions": "Cook the rice in salted water. Prepare a tomato sauce by simmering tomatoes with olive oil and salt, then mix with the cooked rice."
+    "name": "Couscous Bowl with Pepper and Chicken",
+    "ingredients": [
+      "couscous",
+      "pepper",
+      "chicken",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté pepper until fragrant. Add chicken and cook through, then season with parsley. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
   },
   {
-    "name": "Pasta with Butter",
-    "ingredients": ["pasta", "butter", "salt"],
-    "instructions": "Cook pasta in salted boiling water. Drain and immediately mix with butter until melted and evenly distributed."
-  },
-
-  {
-    "name": "Fried Potatoes",
-    "ingredients": ["potatoes", "olive oil", "salt"],
-    "instructions": "Peel and slice the potatoes. Heat olive oil in a pan and fry the potatoes until golden and crispy. Season with salt before serving."
-  },
-  {
-    "name": "Baked Potatoes",
-    "ingredients": ["potatoes", "olive oil", "salt"],
-    "instructions": "Preheat the oven to 200°C. Cut potatoes into wedges, toss with olive oil and salt, and bake for 40 minutes until crispy."
+    "name": "Oven-Baked Chicken with Carrot",
+    "ingredients": [
+      "carrot",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with chili flakes and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Boiled Eggs",
-    "ingredients": ["eggs", "water", "salt"],
-    "instructions": "Place eggs in a pot, cover with water, and bring to a boil. Cook for 7–9 minutes, then cool under running water and peel."
+    "name": "Oven-Baked Chicken with Broccoli #2",
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with butter and season with paprika and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Egg Fried Rice",
-    "ingredients": ["rice", "eggs", "olive oil", "salt"],
-    "instructions": "Cook the rice in advance. Heat oil in a pan, scramble the eggs, add rice, season with salt, and stir-fry for several minutes."
+    "name": "Chicken Stir-Fry with Pepper and Carrot",
+    "ingredients": [
+      "chicken",
+      "pepper",
+      "carrot",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add pepper and carrot and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
   },
   {
-    "name": "Tomato Sandwich",
-    "ingredients": ["bread", "tomato", "olive oil", "salt"],
-    "instructions": "Slice tomatoes and season with salt and olive oil. Place between slices of bread and press gently."
+    "name": "Oven-Baked Chicken with Zucchini",
+    "ingredients": [
+      "zucchini",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with butter and season with oregano and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Cheese Sandwich",
-    "ingredients": ["bread", "cheese"],
-    "instructions": "Place cheese between bread slices and serve cold or lightly toasted."
+    "name": "Tofu Stir-Fry with Zucchini and Broccoli",
+    "ingredients": [
+      "tofu",
+      "zucchini",
+      "broccoli",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and broccoli and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
   },
   {
-    "name": "Vegetable Soup",
-    "ingredients": ["vegetables", "water", "salt"],
-    "instructions": "Chop vegetables, place them in a pot with water and salt, and simmer for 30 minutes until tender."
+    "name": "Spaghetti with Tomato and Chicken",
+    "ingredients": [
+      "spaghetti",
+      "tomato",
+      "chicken",
+      "butter",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté tomato until softened. Add chicken and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with butter. Serve hot."
   },
   {
-    "name": "Mashed Potatoes",
-    "ingredients": ["potatoes", "butter", "salt"],
-    "instructions": "Boil potatoes until soft, mash them with butter and salt until smooth and creamy."
+    "name": "Tofu and Lettuce Sandwich",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, yogurt, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Pasta Salad",
-    "ingredients": ["pasta", "tomato", "olive oil"],
-    "instructions": "Cook pasta, let it cool, then mix with chopped tomatoes and olive oil."
+    "name": "Tofu and Tomato Sandwich",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "cheese",
+      "tomato",
+      "salt",
+      "mustard",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, cheese, and tomato. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Rice Salad",
-    "ingredients": ["rice", "tomato", "olive oil"],
-    "instructions": "Cook rice, allow it to cool, then mix with tomatoes and olive oil."
-  },
-
-  {
-    "name": "Toast with Eggs",
-    "ingredients": ["bread", "eggs", "butter"],
-    "instructions": "Toast the bread. Fry eggs in butter and serve on top of the toast."
-  },
-  {
-    "name": "Butter Toast",
-    "ingredients": ["bread", "butter"],
-    "instructions": "Toast the bread and spread butter evenly while warm."
+    "name": "Oven-Baked Pork with Pepper",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with paprika and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Simple Omelette",
-    "ingredients": ["eggs", "salt", "butter"],
-    "instructions": "Beat eggs with salt, cook gently in butter, and fold before serving."
+    "name": "Oven-Baked Pork with Broccoli",
+    "ingredients": [
+      "broccoli",
+      "pork",
+      "olive oil",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with olive oil and season with oregano and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Rice with Butter",
-    "ingredients": ["rice", "butter", "salt"],
-    "instructions": "Cook rice and mix with butter and salt while still hot."
+    "name": "Quick Eggs with Milk",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with pepper and salt. Serve warm."
   },
   {
-    "name": "Pasta with Cheese",
-    "ingredients": ["pasta", "cheese", "salt"],
-    "instructions": "Cook pasta, drain, and mix immediately with grated cheese and salt."
+    "name": "Quick Eggs with Butter",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with pepper and salt. Serve warm."
   },
   {
-    "name": "Cheese and Tomato Plate",
-    "ingredients": ["cheese", "tomato"],
-    "instructions": "Slice cheese and tomatoes and arrange them on a plate."
+    "name": "Noodles with Pepper and Eggs",
+    "ingredients": [
+      "noodles",
+      "pepper",
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add eggs and cook until done, then season with pepper. Drain the noodles, toss it in the pan, and finish with butter. Serve hot."
   },
   {
-    "name": "Vegetable Stir Fry",
-    "ingredients": ["vegetables", "olive oil", "salt"],
-    "instructions": "Heat oil in a pan, add vegetables, and stir-fry until tender. Season with salt."
+    "name": "Tofu Stir-Fry with Broccoli and Zucchini",
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "zucchini",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add broccoli and zucchini and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
   },
   {
-    "name": "Rice with Vegetables",
-    "ingredients": ["rice", "vegetables", "salt"],
-    "instructions": "Cook rice and vegetables separately, then mix and season with salt."
+    "name": "Tofu Stir-Fry with Pepper and Zucchini",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "zucchini",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add pepper and zucchini and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
   },
   {
-    "name": "Egg and Cheese Toast",
-    "ingredients": ["bread", "eggs", "cheese"],
-    "instructions": "Toast bread, cook eggs, add cheese, and assemble on the toast."
+    "name": "Rice Bowl with Carrot and Eggs",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté carrot until fragrant. Add eggs and cook through, then season with parsley. Fold the cooked rice into the pan and stir well. Finish with butter for extra richness and serve."
   },
   {
-    "name": "Simple Pasta",
-    "ingredients": ["pasta", "salt"],
-    "instructions": "Cook pasta in salted boiling water and serve plain."
-  },
-
-  {
-    "name": "Cold Rice Bowl",
-    "ingredients": ["rice", "olive oil", "salt"],
-    "instructions": "Cook rice, let it cool, and season with olive oil and salt."
-  },
-  {
-    "name": "Egg Salad",
-    "ingredients": ["eggs", "salt", "olive oil"],
-    "instructions": "Boil eggs, chop them, and season with olive oil and salt."
+    "name": "Noodles with Onion and Tofu",
+    "ingredients": [
+      "noodles",
+      "onion",
+      "tofu",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté onion until softened. Add tofu and cook until done, then season with chili flakes. Drain the noodles, toss it in the pan, and finish with yogurt. Serve hot."
   },
   {
-    "name": "Cheese Omelette Deluxe",
-    "ingredients": ["eggs", "cheese", "butter", "salt"],
-    "instructions": "Cook eggs slowly in butter, add cheese, fold, and finish cooking gently."
+    "name": "Chicken and Tomato Sandwich",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "tomato",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and tomato. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
   },
   {
-    "name": "Pan Fried Bread",
-    "ingredients": ["bread", "olive oil"],
-    "instructions": "Heat oil in a pan and fry bread slices until crispy on both sides."
+    "name": "Tofu Stir-Fry with Pepper and Broccoli",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "broccoli",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add pepper and broccoli and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
   },
   {
-    "name": "Rice and Eggs Bowl",
-    "ingredients": ["rice", "eggs", "salt"],
-    "instructions": "Serve cooked rice topped with softly cooked eggs and salt."
+    "name": "Spaghetti with Onion and Chicken",
+    "ingredients": [
+      "spaghetti",
+      "onion",
+      "chicken",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté onion until softened. Add chicken and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
   },
   {
-    "name": "Vegetable Rice Soup",
-    "ingredients": ["rice", "vegetables", "water", "salt"],
-    "instructions": "Simmer rice and vegetables in water with salt until soft."
+    "name": "Quick Eggs with Cream",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with pepper and salt. Serve warm."
   },
   {
-    "name": "Potato and Egg Skillet",
-    "ingredients": ["potatoes", "eggs", "olive oil", "salt"],
-    "instructions": "Fry potatoes in oil until golden, add eggs, and cook until set."
+    "name": "Spaghetti with Onion and Chicken #2",
+    "ingredients": [
+      "spaghetti",
+      "onion",
+      "chicken",
+      "yogurt",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté onion until softened. Add chicken and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
   },
   {
-    "name": "Cheese Rice",
-    "ingredients": ["rice", "cheese", "salt"],
-    "instructions": "Mix hot cooked rice with cheese and salt until melted."
+    "name": "Spaghetti with Pepper and Eggs",
+    "ingredients": [
+      "spaghetti",
+      "pepper",
+      "eggs",
+      "yogurt",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté pepper until softened. Add eggs and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
   },
   {
-    "name": "Warm Vegetable Bowl",
-    "ingredients": ["vegetables", "olive oil", "salt"],
-    "instructions": "Cook vegetables in olive oil and season lightly before serving."
+    "name": "Oven-Baked Pork with Broccoli #2",
+    "ingredients": [
+      "broccoli",
+      "pork",
+      "butter",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with butter and season with oregano and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
   },
   {
-    "name": "Egg and Bread Plate",
-    "ingredients": ["eggs", "bread"],
-    "instructions": "Cook eggs to preference and serve with bread."
+    "name": "Noodles with Spinach and Lentils",
+    "ingredients": [
+      "noodles",
+      "spinach",
+      "lentils",
+      "cheese",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté spinach until softened. Add lentils and cook until done, then season with parsley. Drain the noodles, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Eggs and Lettuce Sandwich",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and lettuce. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Cream #2",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Cheese and Onion Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "yogurt",
+      "onion",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, yogurt, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Couscous Bowl with Onion and Tofu",
+    "ingredients": [
+      "couscous",
+      "onion",
+      "tofu",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté onion until fragrant. Add tofu and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with cream for extra richness and serve."
+  },
+  {
+    "name": "Spaghetti with Pepper and Lentils",
+    "ingredients": [
+      "spaghetti",
+      "pepper",
+      "lentils",
+      "cheese",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add lentils and cook until done, then season with chili flakes. Drain the spaghetti, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Pork Stir-Fry with Onion and Carrot",
+    "ingredients": [
+      "pork",
+      "onion",
+      "carrot",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add onion and carrot and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Quick Eggs with Milk #2",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Oven-Baked Chicken with Broccoli #3",
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with butter and season with pepper and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Beans",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "beans",
+      "yogurt",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté spinach until fragrant. Add beans and cook through, then season with parsley. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Spaghetti with Garlic and Chicken",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "chicken",
+      "cream",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté garlic until softened. Add chicken and cook until done, then season with pepper. Drain the spaghetti, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Eggs and Onion Sandwich #2",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "cheese",
+      "onion",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, cheese, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Cheese and Lettuce Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "lettuce",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, cheese, and lettuce. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Milk #3",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "salt",
+      "bread",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Butter #2",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Broccoli and Chicken Soup",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "chicken",
+      "butter",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Pasta with Tomato and Beans",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "beans",
+      "butter",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté tomato until softened. Add beans and cook until done, then season with paprika. Drain the pasta, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Butter #3",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Milk #4",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Cheese #2",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Beans Stir-Fry with Onion and Garlic",
+    "ingredients": [
+      "beans",
+      "onion",
+      "garlic",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add onion and garlic and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Cheese and Lettuce Sandwich #2",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, yogurt, and lettuce. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Tofu and Lettuce Sandwich #2",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "butter",
+      "lettuce",
+      "salt"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, butter, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Oven-Baked Pork with Potatoes",
+    "ingredients": [
+      "potatoes",
+      "pork",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with pepper and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #2",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with oregano and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Pork with Carrot",
+    "ingredients": [
+      "carrot",
+      "pork",
+      "butter",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Beans Stir-Fry with Garlic and Broccoli",
+    "ingredients": [
+      "beans",
+      "garlic",
+      "broccoli",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add garlic and broccoli and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Quick Eggs with Cheese #3",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Spaghetti with Spinach and Tofu",
+    "ingredients": [
+      "spaghetti",
+      "spinach",
+      "tofu",
+      "butter",
+      "olive oil",
+      "salt",
+      "pepper",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté spinach until softened. Add tofu and cook until done, then season with oregano. Drain the spaghetti, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Zucchini and Tofu Soup",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Oven-Baked Chicken with Potatoes #2",
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with oregano and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Eggs and Lettuce Sandwich #2",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and lettuce. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Oven-Baked Pork with Broccoli #3",
+    "ingredients": [
+      "broccoli",
+      "pork",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with butter and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Cheese and Onion Sandwich #2",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "onion",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, cheese, and onion. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Cream #3",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Couscous Bowl with Pepper and Tofu",
+    "ingredients": [
+      "couscous",
+      "pepper",
+      "tofu",
+      "butter",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté pepper until fragrant. Add tofu and cook through, then season with paprika. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Oven-Baked Chicken with Carrot #2",
+    "ingredients": [
+      "carrot",
+      "chicken",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with chili flakes and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Spaghetti with Pepper and Beans",
+    "ingredients": [
+      "spaghetti",
+      "pepper",
+      "beans",
+      "cheese",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté pepper until softened. Add beans and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Tofu Stir-Fry with Spinach and Pepper",
+    "ingredients": [
+      "tofu",
+      "spinach",
+      "pepper",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and pepper and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu Stir-Fry with Zucchini and Spinach",
+    "ingredients": [
+      "tofu",
+      "zucchini",
+      "spinach",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add zucchini and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Potatoes and Tofu Soup",
+    "ingredients": [
+      "onion",
+      "potatoes",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "stock",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Pork Stir-Fry with Garlic and Broccoli",
+    "ingredients": [
+      "pork",
+      "garlic",
+      "broccoli",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add garlic and broccoli and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Quick Eggs with Cream #4",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Chicken Stir-Fry with Garlic and Spinach",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "spinach",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add garlic and spinach and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Rice Bowl with Onion and Beans",
+    "ingredients": [
+      "rice",
+      "onion",
+      "beans",
+      "butter",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté onion until fragrant. Add beans and cook through, then season with paprika. Fold the cooked rice into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Beans Stir-Fry with Garlic and Zucchini",
+    "ingredients": [
+      "beans",
+      "garlic",
+      "zucchini",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add garlic and zucchini and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu Stir-Fry with Broccoli and Spinach",
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "spinach",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add broccoli and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Noodles with Garlic and Lentils #2",
+    "ingredients": [
+      "noodles",
+      "garlic",
+      "lentils",
+      "cheese",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté garlic until softened. Add lentils and cook until done, then season with basil. Drain the noodles, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Pork Stir-Fry with Onion and Zucchini",
+    "ingredients": [
+      "pork",
+      "onion",
+      "zucchini",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add onion and zucchini and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Pork with Zucchini",
+    "ingredients": [
+      "zucchini",
+      "pork",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with olive oil and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #3",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with butter and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Chicken Stir-Fry with Carrot and Garlic",
+    "ingredients": [
+      "chicken",
+      "carrot",
+      "garlic",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add carrot and garlic and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Potatoes and Tofu Soup #2",
+    "ingredients": [
+      "carrot",
+      "potatoes",
+      "tofu",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté carrot for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Beans Stir-Fry with Carrot and Pepper",
+    "ingredients": [
+      "beans",
+      "carrot",
+      "pepper",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add carrot and pepper and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Broccoli and Tofu Soup",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "tofu",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Couscous Bowl with Tomato and Chicken",
+    "ingredients": [
+      "couscous",
+      "tomato",
+      "chicken",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté tomato until fragrant. Add chicken and cook through, then season with oregano. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Beans Stir-Fry with Pepper and Spinach",
+    "ingredients": [
+      "beans",
+      "pepper",
+      "spinach",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add pepper and spinach and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Noodles with Onion and Tofu #2",
+    "ingredients": [
+      "noodles",
+      "onion",
+      "tofu",
+      "cheese",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté onion until softened. Add tofu and cook until done, then season with chili flakes. Drain the noodles, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Rice Bowl with Tomato and Beans",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "beans",
+      "yogurt",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté tomato until fragrant. Add beans and cook through, then season with oregano. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Pork Stir-Fry with Onion and Carrot #2",
+    "ingredients": [
+      "pork",
+      "onion",
+      "carrot",
+      "olive oil",
+      "salt",
+      "pepper",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add onion and carrot and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Beans Stir-Fry with Onion and Garlic #2",
+    "ingredients": [
+      "beans",
+      "onion",
+      "garlic",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add onion and garlic and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Noodles with Garlic and Beans",
+    "ingredients": [
+      "noodles",
+      "garlic",
+      "beans",
+      "yogurt",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté garlic until softened. Add beans and cook until done, then season with parsley. Drain the noodles, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Cheese #4",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Oven-Baked Chicken with Potatoes #3",
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "olive oil",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with olive oil and season with pepper and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #2",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "yogurt",
+      "tomato",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, yogurt, and tomato. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Tofu and Onion Sandwich",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "yogurt",
+      "onion",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, yogurt, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Butter #4",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt",
+      "bread",
+      "tomato"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #3",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "tomato",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and tomato. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Spaghetti with Garlic and Tofu",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "tofu",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté garlic until softened. Add tofu and cook until done, then season with pepper. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Cream #5",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt",
+      "bread",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Chicken Stir-Fry with Spinach and Garlic",
+    "ingredients": [
+      "chicken",
+      "spinach",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and garlic and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu Stir-Fry with Pepper and Onion",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "onion",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add pepper and onion and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Noodles with Tomato and Beans",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "beans",
+      "cream",
+      "vinegar",
+      "salt",
+      "pepper",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté tomato until softened. Add beans and cook until done, then season with parsley. Drain the noodles, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Pork with Broccoli #4",
+    "ingredients": [
+      "broccoli",
+      "pork",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with olive oil and season with pepper and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Beef",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "beef",
+      "cream",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté spinach until fragrant. Add beef and cook through, then season with paprika. Fold the cooked couscous into the pan and stir well. Finish with cream for extra richness and serve."
+  },
+  {
+    "name": "Quick Eggs with Cheese #5",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Spaghetti with Garlic and Beans",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "beans",
+      "yogurt",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté garlic until softened. Add beans and cook until done, then season with pepper. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Cheese and Tomato Sandwich",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "tomato",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, cheese, and tomato. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Zucchini and Tofu Soup #2",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Potatoes and Lentils Soup",
+    "ingredients": [
+      "tomato",
+      "potatoes",
+      "lentils",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Oven-Baked Chicken with Zucchini #2",
+    "ingredients": [
+      "zucchini",
+      "chicken",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with olive oil and season with oregano and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Noodles with Pepper and Eggs #2",
+    "ingredients": [
+      "noodles",
+      "pepper",
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add eggs and cook until done, then season with paprika. Drain the noodles, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Tomato and Tofu",
+    "ingredients": [
+      "couscous",
+      "tomato",
+      "tofu",
+      "yogurt",
+      "soy sauce",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté tomato until fragrant. Add tofu and cook through, then season with pepper. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Cheese and Onion Sandwich #3",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "onion",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, cheese, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Pasta with Pepper and Tofu",
+    "ingredients": [
+      "pasta",
+      "pepper",
+      "tofu",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add tofu and cook until done, then season with parsley. Drain the pasta, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #2",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "onion",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and onion. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Cheese and Lettuce Sandwich #3",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter",
+      "lettuce",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, butter, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Cheese #6",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Broccoli and Tofu Soup #2",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Cream #6",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Couscous Bowl with Tomato and Chicken #2",
+    "ingredients": [
+      "couscous",
+      "tomato",
+      "chicken",
+      "butter",
+      "soy sauce",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté tomato until fragrant. Add chicken and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Oven-Baked Tofu with Potatoes",
+    "ingredients": [
+      "potatoes",
+      "tofu",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with pepper and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Potatoes and Lentils Soup #2",
+    "ingredients": [
+      "onion",
+      "potatoes",
+      "lentils",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Noodles with Spinach and Eggs",
+    "ingredients": [
+      "noodles",
+      "spinach",
+      "eggs",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "pepper",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté spinach until softened. Add eggs and cook until done, then season with pepper. Drain the noodles, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Pork Stir-Fry with Spinach and Onion",
+    "ingredients": [
+      "pork",
+      "spinach",
+      "onion",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add spinach and onion and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Chicken with Carrot #3",
+    "ingredients": [
+      "carrot",
+      "chicken",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with olive oil and season with paprika and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Tofu with Carrot",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with olive oil and season with oregano and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Tofu Stir-Fry with Zucchini and Onion",
+    "ingredients": [
+      "tofu",
+      "zucchini",
+      "onion",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and onion and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Pork Stir-Fry with Zucchini and Pepper",
+    "ingredients": [
+      "pork",
+      "zucchini",
+      "pepper",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and pepper and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Tofu",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "tofu",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté spinach until fragrant. Add tofu and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Potatoes and Beans Soup",
+    "ingredients": [
+      "carrot",
+      "potatoes",
+      "beans",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté carrot for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with pepper and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Butter #5",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Cheese #7",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Chicken Stir-Fry with Zucchini and Garlic",
+    "ingredients": [
+      "chicken",
+      "zucchini",
+      "garlic",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and garlic and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu and Tomato Sandwich #2",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "cheese",
+      "tomato",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, cheese, and tomato. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Cheese #8",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Milk #5",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Spinach and Tofu Soup",
+    "ingredients": [
+      "carrot",
+      "spinach",
+      "tofu",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté carrot for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Chicken and Lettuce Sandwich",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, yogurt, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Chicken Stir-Fry with Zucchini and Pepper",
+    "ingredients": [
+      "chicken",
+      "zucchini",
+      "pepper",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add zucchini and pepper and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Spaghetti with Zucchini and Chicken",
+    "ingredients": [
+      "spaghetti",
+      "zucchini",
+      "chicken",
+      "yogurt",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté zucchini until softened. Add chicken and cook until done, then season with parsley. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #3",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "onion",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Pork Stir-Fry with Onion and Spinach",
+    "ingredients": [
+      "pork",
+      "onion",
+      "spinach",
+      "olive oil",
+      "salt",
+      "pepper",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add onion and spinach and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #4",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "butter",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with butter and season with paprika and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Pasta with Tomato and Chicken",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "chicken",
+      "cheese",
+      "olive oil",
+      "salt",
+      "pepper",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté tomato until softened. Add chicken and cook until done, then season with parsley. Drain the pasta, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Eggs and Lettuce Sandwich #3",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Beans Stir-Fry with Spinach and Garlic",
+    "ingredients": [
+      "beans",
+      "spinach",
+      "garlic",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and garlic and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Chicken Stir-Fry with Spinach and Garlic #2",
+    "ingredients": [
+      "chicken",
+      "spinach",
+      "garlic",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and garlic and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Pork Stir-Fry with Onion and Carrot #3",
+    "ingredients": [
+      "pork",
+      "onion",
+      "carrot",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add onion and carrot and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Spinach and Beans Soup",
+    "ingredients": [
+      "tomato",
+      "spinach",
+      "beans",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Cream #7",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Zucchini and Tofu Soup #3",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Beef #2",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "beef",
+      "yogurt",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté spinach until fragrant. Add beef and cook through, then season with oregano. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Eggs and Lettuce Sandwich #4",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and lettuce. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Oven-Baked Tofu with Carrot #2",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with oregano and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Potatoes and Chicken Soup",
+    "ingredients": [
+      "tomato",
+      "potatoes",
+      "chicken",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with pepper and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Couscous Bowl with Carrot and Eggs",
+    "ingredients": [
+      "couscous",
+      "carrot",
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté carrot until fragrant. Add eggs and cook through, then season with pepper. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Quick Eggs with Cheese #9",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Oven-Baked Pork with Zucchini #2",
+    "ingredients": [
+      "zucchini",
+      "pork",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with olive oil and season with pepper and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #4",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "yogurt",
+      "tomato",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, yogurt, and tomato. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Eggs and Onion Sandwich #3",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "butter",
+      "onion",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, butter, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Milk #6",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Beef Stir-Fry with Carrot and Onion",
+    "ingredients": [
+      "beef",
+      "carrot",
+      "onion",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add carrot and onion and stir-fry for 3–5 minutes. Add beef and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Noodles with Zucchini and Chicken",
+    "ingredients": [
+      "noodles",
+      "zucchini",
+      "chicken",
+      "yogurt",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté zucchini until softened. Add chicken and cook until done, then season with paprika. Drain the noodles, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #5",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with paprika and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Noodles with Tomato and Tofu",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "tofu",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté tomato until softened. Add tofu and cook until done, then season with paprika. Drain the noodles, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Chicken Stir-Fry with Garlic and Zucchini",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "zucchini",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add garlic and zucchini and stir-fry for 3–5 minutes. Add chicken and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Eggs and Tomato Sandwich #2",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "cheese",
+      "tomato",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, cheese, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Rice Bowl with Pepper and Tofu",
+    "ingredients": [
+      "rice",
+      "pepper",
+      "tofu",
+      "yogurt",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté pepper until fragrant. Add tofu and cook through, then season with parsley. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Beef #3",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "beef",
+      "cheese",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté spinach until fragrant. Add beef and cook through, then season with oregano. Fold the cooked couscous into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Pasta with Spinach and Eggs",
+    "ingredients": [
+      "pasta",
+      "spinach",
+      "eggs",
+      "yogurt",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté spinach until softened. Add eggs and cook until done, then season with paprika. Drain the pasta, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Cheese and Onion Sandwich #4",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "yogurt",
+      "onion",
+      "salt",
+      "mustard"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, yogurt, and onion. Add a small amount of mustard for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Tofu Stir-Fry with Garlic and Zucchini",
+    "ingredients": [
+      "tofu",
+      "garlic",
+      "zucchini",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add garlic and zucchini and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Zucchini and Chicken Soup",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "chicken",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #5",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "tomato",
+      "salt"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Rice Bowl with Carrot and Chicken",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "chicken",
+      "yogurt",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté carrot until fragrant. Add chicken and cook through, then season with paprika. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Oven-Baked Chicken with Potatoes #4",
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with chili flakes and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Spinach and Lentils Soup",
+    "ingredients": [
+      "carrot",
+      "spinach",
+      "lentils",
+      "butter",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm butter in a pot and sauté carrot for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Cheese #10",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Spaghetti with Garlic and Tofu #2",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "tofu",
+      "cheese",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté garlic until softened. Add tofu and cook until done, then season with basil. Drain the spaghetti, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Zucchini and Lentils Soup",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "lentils",
+      "butter",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Spinach and Beans Soup #2",
+    "ingredients": [
+      "onion",
+      "spinach",
+      "beans",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Spinach and Chicken Soup",
+    "ingredients": [
+      "garlic",
+      "spinach",
+      "chicken",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté garlic for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Tofu and Tomato Sandwich #3",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "cheese",
+      "tomato",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, cheese, and tomato. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Beans Stir-Fry with Zucchini and Spinach",
+    "ingredients": [
+      "beans",
+      "zucchini",
+      "spinach",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add zucchini and spinach and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu Stir-Fry with Zucchini and Spinach #2",
+    "ingredients": [
+      "tofu",
+      "zucchini",
+      "spinach",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add zucchini and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Quick Eggs with Cheese #11",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Rice Bowl with Pepper and Beans",
+    "ingredients": [
+      "rice",
+      "pepper",
+      "beans",
+      "cheese",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté pepper until fragrant. Add beans and cook through, then season with paprika. Fold the cooked rice into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Quick Eggs with Cheese #12",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Rice Bowl with Tomato and Lentils",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "lentils",
+      "cheese",
+      "vinegar",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté tomato until fragrant. Add lentils and cook through, then season with pepper. Fold the cooked rice into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Oven-Baked Tofu with Carrot #3",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "butter",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with chili flakes and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Butter #6",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Zucchini and Tofu Soup #4",
+    "ingredients": [
+      "carrot",
+      "zucchini",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté carrot for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Tofu Stir-Fry with Onion and Spinach",
+    "ingredients": [
+      "tofu",
+      "onion",
+      "spinach",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add onion and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Spaghetti with Garlic and Beans #2",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "beans",
+      "butter",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté garlic until softened. Add beans and cook until done, then season with basil. Drain the spaghetti, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Potatoes and Tofu Soup #3",
+    "ingredients": [
+      "carrot",
+      "potatoes",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté carrot for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Pasta with Onion and Eggs",
+    "ingredients": [
+      "pasta",
+      "onion",
+      "eggs",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté onion until softened. Add eggs and cook until done, then season with pepper. Drain the pasta, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Rice Bowl with Pepper and Beans #2",
+    "ingredients": [
+      "rice",
+      "pepper",
+      "beans",
+      "cheese",
+      "vinegar",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté pepper until fragrant. Add beans and cook through, then season with pepper. Fold the cooked rice into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Spaghetti with Garlic and Chicken #2",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "chicken",
+      "butter",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté garlic until softened. Add chicken and cook until done, then season with pepper. Drain the spaghetti, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Butter #7",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Cheese #13",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #6",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "tomato",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and tomato. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Potatoes and Chicken Soup #2",
+    "ingredients": [
+      "garlic",
+      "potatoes",
+      "chicken",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté garlic for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Oven-Baked Tofu with Zucchini",
+    "ingredients": [
+      "zucchini",
+      "tofu",
+      "butter",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with butter and season with paprika and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Rice Bowl with Spinach and Beef",
+    "ingredients": [
+      "rice",
+      "spinach",
+      "beef",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté spinach until fragrant. Add beef and cook through, then season with parsley. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Oven-Baked Pork with Carrot #2",
+    "ingredients": [
+      "carrot",
+      "pork",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss carrot with butter and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Noodles with Pepper and Eggs #3",
+    "ingredients": [
+      "noodles",
+      "pepper",
+      "eggs",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add eggs and cook until done, then season with basil. Drain the noodles, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Tofu Stir-Fry with Carrot and Zucchini",
+    "ingredients": [
+      "tofu",
+      "carrot",
+      "zucchini",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add carrot and zucchini and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Quick Eggs with Milk #7",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Zucchini and Chicken Soup #2",
+    "ingredients": [
+      "tomato",
+      "zucchini",
+      "chicken",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté tomato for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Cheese #14",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Couscous Bowl with Pepper and Eggs",
+    "ingredients": [
+      "couscous",
+      "pepper",
+      "eggs",
+      "butter",
+      "soy sauce",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté pepper until fragrant. Add eggs and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Zucchini and Chicken Soup #3",
+    "ingredients": [
+      "garlic",
+      "zucchini",
+      "chicken",
+      "butter",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm butter in a pot and sauté garlic for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Tofu and Lettuce Sandwich #3",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "yogurt",
+      "lettuce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, yogurt, and lettuce. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Eggs and Onion Sandwich #4",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "cheese",
+      "onion",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, cheese, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Spaghetti with Spinach and Tofu #2",
+    "ingredients": [
+      "spaghetti",
+      "spinach",
+      "tofu",
+      "cream",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté spinach until softened. Add tofu and cook until done, then season with chili flakes. Drain the spaghetti, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Spinach and Tofu Soup #2",
+    "ingredients": [
+      "carrot",
+      "spinach",
+      "tofu",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté carrot for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Oven-Baked Chicken with Pepper",
+    "ingredients": [
+      "pepper",
+      "chicken",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with paprika and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Spinach and Chicken Soup #2",
+    "ingredients": [
+      "onion",
+      "spinach",
+      "chicken",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Potatoes and Lentils Soup #3",
+    "ingredients": [
+      "garlic",
+      "potatoes",
+      "lentils",
+      "olive oil",
+      "water",
+      "salt",
+      "stock"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté garlic for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Noodles with Garlic and Tofu",
+    "ingredients": [
+      "noodles",
+      "garlic",
+      "tofu",
+      "cheese",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté garlic until softened. Add tofu and cook until done, then season with chili flakes. Drain the noodles, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Rice Bowl with Pepper and Lentils",
+    "ingredients": [
+      "rice",
+      "pepper",
+      "lentils",
+      "cheese",
+      "olive oil",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté pepper until fragrant. Add lentils and cook through, then season with paprika. Fold the cooked rice into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Spinach and Chicken Soup #3",
+    "ingredients": [
+      "onion",
+      "spinach",
+      "chicken",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Tofu Stir-Fry with Pepper and Spinach",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "spinach",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add pepper and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Tofu with Potatoes #2",
+    "ingredients": [
+      "potatoes",
+      "tofu",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with butter and season with pepper and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #4",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "butter",
+      "onion",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, butter, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Pork Stir-Fry with Garlic and Carrot",
+    "ingredients": [
+      "pork",
+      "garlic",
+      "carrot",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add garlic and carrot and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Pasta with Onion and Lentils",
+    "ingredients": [
+      "pasta",
+      "onion",
+      "lentils",
+      "cream",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté onion until softened. Add lentils and cook until done, then season with pepper. Drain the pasta, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #5",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "onion",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Quick Eggs with Cheese #15",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Beans Stir-Fry with Zucchini and Garlic",
+    "ingredients": [
+      "beans",
+      "zucchini",
+      "garlic",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and garlic and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with chili flakes and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Tofu Stir-Fry with Pepper and Garlic",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "garlic",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add pepper and garlic and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Broccoli and Chicken Soup #2",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "chicken",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with pepper and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Cream #8",
+    "ingredients": [
+      "eggs",
+      "cream",
+      "butter",
+      "salt",
+      "tomato"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cream and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Couscous Bowl with Carrot and Tofu",
+    "ingredients": [
+      "couscous",
+      "carrot",
+      "tofu",
+      "cream",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté carrot until fragrant. Add tofu and cook through, then season with paprika. Fold the cooked couscous into the pan and stir well. Finish with cream for extra richness and serve."
+  },
+  {
+    "name": "Broccoli and Lentils Soup",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "lentils",
+      "butter",
+      "water",
+      "salt",
+      "stock",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with pepper and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Cheese and Tomato Sandwich #2",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter",
+      "tomato",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer cheese, butter, and tomato. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Broccoli and Chicken Soup #3",
+    "ingredients": [
+      "garlic",
+      "broccoli",
+      "chicken",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté garlic for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with parsley and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Milk #8",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with milk and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Oven-Baked Tofu with Pepper",
+    "ingredients": [
+      "pepper",
+      "tofu",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with butter and season with paprika and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Tofu #2",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "tofu",
+      "butter",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté spinach until fragrant. Add tofu and cook through, then season with oregano. Fold the cooked couscous into the pan and stir well. Finish with butter for extra richness and serve."
+  },
+  {
+    "name": "Quick Eggs with Butter #8",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with chili flakes and salt. Serve warm."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #6",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "onion",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Spaghetti with Spinach and Tofu #3",
+    "ingredients": [
+      "spaghetti",
+      "spinach",
+      "tofu",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté spinach until softened. Add tofu and cook until done, then season with paprika. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Spinach and Tofu #3",
+    "ingredients": [
+      "couscous",
+      "spinach",
+      "tofu",
+      "cheese",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté spinach until fragrant. Add tofu and cook through, then season with oregano. Fold the cooked couscous into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Beans Stir-Fry with Broccoli and Zucchini",
+    "ingredients": [
+      "beans",
+      "broccoli",
+      "zucchini",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add broccoli and zucchini and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Pasta with Zucchini and Tofu",
+    "ingredients": [
+      "pasta",
+      "zucchini",
+      "tofu",
+      "cheese",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté zucchini until softened. Add tofu and cook until done, then season with paprika. Drain the pasta, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Quick Eggs with Cheese #16",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Quick Eggs with Butter #9",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Rice Bowl with Broccoli and Tofu",
+    "ingredients": [
+      "rice",
+      "broccoli",
+      "tofu",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm olive oil and sauté broccoli until fragrant. Add tofu and cook through, then season with pepper. Fold the cooked rice into the pan and stir well. Finish with cream for extra richness and serve."
+  },
+  {
+    "name": "Quick Eggs with Cheese #17",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "salt",
+      "bread"
+    ],
+    "instructions": "Heat butter in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with cheese and season with parsley and salt. Serve warm."
+  },
+  {
+    "name": "Oven-Baked Pork with Zucchini #3",
+    "ingredients": [
+      "zucchini",
+      "pork",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with butter and season with pepper and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Tofu and Onion Sandwich #2",
+    "ingredients": [
+      "bread",
+      "tofu",
+      "yogurt",
+      "onion",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer tofu, yogurt, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #7",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "tomato",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Beef Stir-Fry with Spinach and Carrot",
+    "ingredients": [
+      "beef",
+      "spinach",
+      "carrot",
+      "soy sauce",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add spinach and carrot and stir-fry for 3–5 minutes. Add beef and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Tofu with Pepper #2",
+    "ingredients": [
+      "pepper",
+      "tofu",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with chili flakes and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Pork Stir-Fry with Spinach and Garlic",
+    "ingredients": [
+      "pork",
+      "spinach",
+      "garlic",
+      "olive oil",
+      "salt",
+      "soy sauce"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and garlic and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #6",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "butter",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with butter and season with oregano and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Chicken and Onion Sandwich #7",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "onion",
+      "salt",
+      "vinegar",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and onion. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Oven-Baked Chicken with Broccoli #4",
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss broccoli with olive oil and season with paprika and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Broccoli and Beans Soup",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "beans",
+      "olive oil",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Broccoli and Chicken Soup #4",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "chicken",
+      "butter",
+      "water",
+      "salt"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with pepper and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Noodles with Zucchini and Chicken #2",
+    "ingredients": [
+      "noodles",
+      "zucchini",
+      "chicken",
+      "cheese",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté zucchini until softened. Add chicken and cook until done, then season with paprika. Drain the noodles, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Pasta with Pepper and Chicken",
+    "ingredients": [
+      "pasta",
+      "pepper",
+      "chicken",
+      "cream",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté pepper until softened. Add chicken and cook until done, then season with basil. Drain the pasta, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Beans Stir-Fry with Carrot and Broccoli",
+    "ingredients": [
+      "beans",
+      "carrot",
+      "broccoli",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add carrot and broccoli and stir-fry for 3–5 minutes. Add beans and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Pasta with Onion and Beans",
+    "ingredients": [
+      "pasta",
+      "onion",
+      "beans",
+      "cream",
+      "vinegar",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat vinegar in a pan over medium heat and sauté onion until softened. Add beans and cook until done, then season with oregano. Drain the pasta, toss it in the pan, and finish with cream. Serve hot."
+  },
+  {
+    "name": "Beef Stir-Fry with Broccoli and Spinach",
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "spinach",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add broccoli and spinach and stir-fry for 3–5 minutes. Add beef and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Chicken with Potatoes #5",
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "olive oil",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss potatoes with olive oil and season with chili flakes and salt. Add chicken and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Tofu Stir-Fry with Pepper and Garlic #2",
+    "ingredients": [
+      "tofu",
+      "pepper",
+      "garlic",
+      "soy sauce",
+      "salt",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add pepper and garlic and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #7",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with paprika and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Tomato and Lentils",
+    "ingredients": [
+      "couscous",
+      "tomato",
+      "lentils",
+      "yogurt",
+      "vinegar",
+      "salt"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté tomato until fragrant. Add lentils and cook through, then season with parsley. Fold the cooked couscous into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Beef Stir-Fry with Broccoli and Garlic",
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "garlic",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add broccoli and garlic and stir-fry for 3–5 minutes. Add beef and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Broccoli and Lentils Soup #2",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "lentils",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté tomato for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Eggs and Onion Sandwich #5",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "yogurt",
+      "onion",
+      "salt",
+      "olive oil",
+      "pepper"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer eggs, yogurt, and onion. Add a small amount of olive oil for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Tofu Stir-Fry with Spinach and Broccoli",
+    "ingredients": [
+      "tofu",
+      "spinach",
+      "broccoli",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add spinach and broccoli and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with paprika and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Zucchini and Lentils Soup #2",
+    "ingredients": [
+      "onion",
+      "zucchini",
+      "lentils",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add zucchini and stir for another minute, then pour in water (or stock if available). Add lentils and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Oven-Baked Pork with Pepper #8",
+    "ingredients": [
+      "pepper",
+      "pork",
+      "olive oil",
+      "salt",
+      "garlic",
+      "onion"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss pepper with olive oil and season with chili flakes and salt. Add pork and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Rice Bowl with Carrot and Beans",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "beans",
+      "yogurt",
+      "vinegar",
+      "salt",
+      "onion"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté carrot until fragrant. Add beans and cook through, then season with parsley. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Pasta with Tomato and Tofu",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "tofu",
+      "yogurt",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté tomato until softened. Add tofu and cook until done, then season with oregano. Drain the pasta, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Oven-Baked Tofu with Zucchini #2",
+    "ingredients": [
+      "zucchini",
+      "tofu",
+      "butter",
+      "salt"
+    ],
+    "instructions": "Preheat the oven to 200°C. Toss zucchini with butter and season with chili flakes and salt. Add tofu and spread everything on a baking tray. Bake for 20–35 minutes (depending on thickness) until browned and cooked through. Serve hot."
+  },
+  {
+    "name": "Broccoli and Chicken Soup #5",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "chicken",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté onion for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add chicken and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Rice Bowl with Carrot and Eggs #2",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "eggs",
+      "yogurt",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté carrot until fragrant. Add eggs and cook through, then season with oregano. Fold the cooked rice into the pan and stir well. Finish with yogurt for extra richness and serve."
+  },
+  {
+    "name": "Rice Bowl with Broccoli and Tofu #2",
+    "ingredients": [
+      "rice",
+      "broccoli",
+      "tofu",
+      "cheese",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Rinse the rice if needed, then cook it in salted water until tender. In a separate pan, warm soy sauce and sauté broccoli until fragrant. Add tofu and cook through, then season with paprika. Fold the cooked rice into the pan and stir well. Finish with cheese for extra richness and serve."
+  },
+  {
+    "name": "Spaghetti with Spinach and Beans",
+    "ingredients": [
+      "spaghetti",
+      "spinach",
+      "beans",
+      "cheese",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté spinach until softened. Add beans and cook until done, then season with oregano. Drain the spaghetti, toss it in the pan, and finish with cheese. Serve hot."
+  },
+  {
+    "name": "Broccoli and Beans Soup #2",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "beans",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté onion for 2–3 minutes. Add broccoli and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Quick Eggs with Butter #10",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a pan over low-to-medium heat. Add eggs and cook gently, stirring when needed. Finish with butter and season with pepper and salt. Serve warm."
+  },
+  {
+    "name": "Pork Stir-Fry with Broccoli and Zucchini",
+    "ingredients": [
+      "pork",
+      "broccoli",
+      "zucchini",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Heat olive oil in a hot pan or wok. Add broccoli and zucchini and stir-fry for 3–5 minutes. Add pork and continue cooking until fully done. Season with pepper and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Spinach and Beans Soup #3",
+    "ingredients": [
+      "carrot",
+      "spinach",
+      "beans",
+      "olive oil",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm olive oil in a pot and sauté carrot for 2–3 minutes. Add spinach and stir for another minute, then pour in water (or stock if available). Add beans and simmer gently for 15–25 minutes until everything is tender. Season with paprika and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Tofu Stir-Fry with Zucchini and Spinach #3",
+    "ingredients": [
+      "tofu",
+      "zucchini",
+      "spinach",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "olive oil"
+    ],
+    "instructions": "Heat soy sauce in a hot pan or wok. Add zucchini and spinach and stir-fry for 3–5 minutes. Add tofu and continue cooking until fully done. Season with parsley and adjust salt and pepper to taste. Serve immediately."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #8",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "tomato",
+      "salt",
+      "vinegar"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
+  },
+  {
+    "name": "Noodles with Pepper and Beans",
+    "ingredients": [
+      "noodles",
+      "pepper",
+      "beans",
+      "butter",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the noodles until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté pepper until softened. Add beans and cook until done, then season with oregano. Drain the noodles, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Pasta with Garlic and Eggs",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "eggs",
+      "butter",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the pasta until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté garlic until softened. Add eggs and cook until done, then season with parsley. Drain the pasta, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Spaghetti with Onion and Lentils",
+    "ingredients": [
+      "spaghetti",
+      "onion",
+      "lentils",
+      "butter",
+      "soy sauce",
+      "salt"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat soy sauce in a pan over medium heat and sauté onion until softened. Add lentils and cook until done, then season with oregano. Drain the spaghetti, toss it in the pan, and finish with butter. Serve hot."
+  },
+  {
+    "name": "Spaghetti with Onion and Eggs",
+    "ingredients": [
+      "spaghetti",
+      "onion",
+      "eggs",
+      "yogurt",
+      "olive oil",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Meanwhile, heat olive oil in a pan over medium heat and sauté onion until softened. Add eggs and cook until done, then season with pepper. Drain the spaghetti, toss it in the pan, and finish with yogurt. Serve hot."
+  },
+  {
+    "name": "Couscous Bowl with Pepper and Beans",
+    "ingredients": [
+      "couscous",
+      "pepper",
+      "beans",
+      "cream",
+      "vinegar",
+      "salt",
+      "garlic"
+    ],
+    "instructions": "Rinse the couscous if needed, then cook it in salted water until tender. In a separate pan, warm vinegar and sauté pepper until fragrant. Add beans and cook through, then season with chili flakes. Fold the cooked couscous into the pan and stir well. Finish with cream for extra richness and serve."
+  },
+  {
+    "name": "Potatoes and Tofu Soup #4",
+    "ingredients": [
+      "tomato",
+      "potatoes",
+      "tofu",
+      "butter",
+      "water",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Warm butter in a pot and sauté tomato for 2–3 minutes. Add potatoes and stir for another minute, then pour in water (or stock if available). Add tofu and simmer gently for 15–25 minutes until everything is tender. Season with oregano and salt to taste. Rest for 2 minutes before serving."
+  },
+  {
+    "name": "Chicken and Tomato Sandwich #9",
+    "ingredients": [
+      "bread",
+      "chicken",
+      "cheese",
+      "tomato",
+      "salt"
+    ],
+    "instructions": "Lightly toast the bread if you want extra crunch. Layer chicken, cheese, and tomato. Add a small amount of vinegar for moisture and flavor, then close and slice. Serve right away."
   }
 ]
