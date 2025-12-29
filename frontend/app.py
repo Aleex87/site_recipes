@@ -71,11 +71,14 @@ if st.button("Find recipes"):
     else:
         response = requests.post(
             API_URL,
-            json={"available_ingredients": selected_ingredients}
-        )
+            json={"available_ingredients": selected_ingredients},
+            timeout=30
+)
+
 
         if response.status_code != 200:
-            st.error("Error communicating with the backend.")
+            st.error(f"Backend error: {response.status_code}")
+            st.text(response.text)
         else:
             st.session_state.recipes = response.json()
             st.session_state.selected_recipe = None
