@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Spaghetti with Tomato Sauce",
+    "ingredients": ["spaghetti", "tomato", "olive oil", "salt"],
+    "instructions": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. In a separate pan, heat olive oil over medium heat and add chopped tomatoes. Simmer for 10 minutes, season with salt, then drain the pasta and mix it with the sauce before serving."
+  },
+  {
+    "name": "Garlic and Oil Pasta",
+    "ingredients": ["spaghetti", "garlic", "olive oil", "chili flakes"],
+    "instructions": "Cook the spaghetti in salted boiling water. Thinly slice the garlic and gently heat it in olive oil until fragrant. Add chili flakes, then toss the drained pasta into the pan and mix well."
+  },
+  {
+    "name": "Scrambled Eggs",
+    "ingredients": ["eggs", "butter", "salt"],
+    "instructions": "Crack the eggs into a bowl and beat them lightly with salt. Melt butter in a pan over low heat, add the eggs, and stir continuously until soft and creamy."
+  },
+  {
+    "name": "Cheese Omelette",
+    "ingredients": ["eggs", "cheese", "salt", "butter"],
+    "instructions": "Beat the eggs with salt. Melt butter in a pan, pour in the eggs, and cook gently. Add grated cheese to one side, fold the omelette, and cook until the cheese melts."
+  },
+  {
+    "name": "Classic Pancakes",
+    "ingredients": ["eggs", "milk", "flour", "sugar"],
+    "instructions": "Mix eggs, milk, flour, and sugar until smooth. Heat a non-stick pan and pour small amounts of batter. Cook until bubbles form, flip, and cook until golden."
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Butter the bread slices on the outside, place cheese in between, and grill in a pan over medium heat until golden brown and the cheese is melted."
+  },
+  {
+    "name": "Simple Green Salad",
+    "ingredients": ["lettuce", "olive oil", "salt"],
+    "instructions": "Wash and dry the lettuce thoroughly. Tear into pieces, season with olive oil and salt, and toss gently before serving."
+  },
+  {
+    "name": "Boiled Rice",
+    "ingredients": ["rice", "water", "salt"],
+    "instructions": "Bring water to a boil with salt. Add rice, cook until tender, drain excess water, and let rest before serving."
+  },
+  {
+    "name": "Rice with Tomato Sauce",
+    "ingredients": ["rice", "tomato", "olive oil", "salt"],
+    "instructions": "Cook the rice in salted water. Prepare a tomato sauce by simmering tomatoes with olive oil and salt, then mix with the cooked rice."
+  },
+  {
+    "name": "Pasta with Butter",
+    "ingredients": ["pasta", "butter", "salt"],
+    "instructions": "Cook pasta in salted boiling water. Drain and immediately mix with butter until melted and evenly distributed."
+  },
+
+  {
+    "name": "Fried Potatoes",
+    "ingredients": ["potatoes", "olive oil", "salt"],
+    "instructions": "Peel and slice the potatoes. Heat olive oil in a pan and fry the potatoes until golden and crispy. Season with salt before serving."
+  },
+  {
+    "name": "Baked Potatoes",
+    "ingredients": ["potatoes", "olive oil", "salt"],
+    "instructions": "Preheat the oven to 200°C. Cut potatoes into wedges, toss with olive oil and salt, and bake for 40 minutes until crispy."
+  },
+  {
+    "name": "Boiled Eggs",
+    "ingredients": ["eggs", "water", "salt"],
+    "instructions": "Place eggs in a pot, cover with water, and bring to a boil. Cook for 7–9 minutes, then cool under running water and peel."
+  },
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": ["rice", "eggs", "olive oil", "salt"],
+    "instructions": "Cook the rice in advance. Heat oil in a pan, scramble the eggs, add rice, season with salt, and stir-fry for several minutes."
+  },
+  {
+    "name": "Tomato Sandwich",
+    "ingredients": ["bread", "tomato", "olive oil", "salt"],
+    "instructions": "Slice tomatoes and season with salt and olive oil. Place between slices of bread and press gently."
+  },
+  {
+    "name": "Cheese Sandwich",
+    "ingredients": ["bread", "cheese"],
+    "instructions": "Place cheese between bread slices and serve cold or lightly toasted."
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": ["vegetables", "water", "salt"],
+    "instructions": "Chop vegetables, place them in a pot with water and salt, and simmer for 30 minutes until tender."
+  },
+  {
+    "name": "Mashed Potatoes",
+    "ingredients": ["potatoes", "butter", "salt"],
+    "instructions": "Boil potatoes until soft, mash them with butter and salt until smooth and creamy."
+  },
+  {
+    "name": "Pasta Salad",
+    "ingredients": ["pasta", "tomato", "olive oil"],
+    "instructions": "Cook pasta, let it cool, then mix with chopped tomatoes and olive oil."
+  },
+  {
+    "name": "Rice Salad",
+    "ingredients": ["rice", "tomato", "olive oil"],
+    "instructions": "Cook rice, allow it to cool, then mix with tomatoes and olive oil."
+  },
+
+  {
+    "name": "Toast with Eggs",
+    "ingredients": ["bread", "eggs", "butter"],
+    "instructions": "Toast the bread. Fry eggs in butter and serve on top of the toast."
+  },
+  {
+    "name": "Butter Toast",
+    "ingredients": ["bread", "butter"],
+    "instructions": "Toast the bread and spread butter evenly while warm."
+  },
+  {
+    "name": "Simple Omelette",
+    "ingredients": ["eggs", "salt", "butter"],
+    "instructions": "Beat eggs with salt, cook gently in butter, and fold before serving."
+  },
+  {
+    "name": "Rice with Butter",
+    "ingredients": ["rice", "butter", "salt"],
+    "instructions": "Cook rice and mix with butter and salt while still hot."
+  },
+  {
+    "name": "Pasta with Cheese",
+    "ingredients": ["pasta", "cheese", "salt"],
+    "instructions": "Cook pasta, drain, and mix immediately with grated cheese and salt."
+  },
+  {
+    "name": "Cheese and Tomato Plate",
+    "ingredients": ["cheese", "tomato"],
+    "instructions": "Slice cheese and tomatoes and arrange them on a plate."
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["vegetables", "olive oil", "salt"],
+    "instructions": "Heat oil in a pan, add vegetables, and stir-fry until tender. Season with salt."
+  },
+  {
+    "name": "Rice with Vegetables",
+    "ingredients": ["rice", "vegetables", "salt"],
+    "instructions": "Cook rice and vegetables separately, then mix and season with salt."
+  },
+  {
+    "name": "Egg and Cheese Toast",
+    "ingredients": ["bread", "eggs", "cheese"],
+    "instructions": "Toast bread, cook eggs, add cheese, and assemble on the toast."
+  },
+  {
+    "name": "Simple Pasta",
+    "ingredients": ["pasta", "salt"],
+    "instructions": "Cook pasta in salted boiling water and serve plain."
+  },
+
+  {
+    "name": "Cold Rice Bowl",
+    "ingredients": ["rice", "olive oil", "salt"],
+    "instructions": "Cook rice, let it cool, and season with olive oil and salt."
+  },
+  {
+    "name": "Egg Salad",
+    "ingredients": ["eggs", "salt", "olive oil"],
+    "instructions": "Boil eggs, chop them, and season with olive oil and salt."
+  },
+  {
+    "name": "Cheese Omelette Deluxe",
+    "ingredients": ["eggs", "cheese", "butter", "salt"],
+    "instructions": "Cook eggs slowly in butter, add cheese, fold, and finish cooking gently."
+  },
+  {
+    "name": "Pan Fried Bread",
+    "ingredients": ["bread", "olive oil"],
+    "instructions": "Heat oil in a pan and fry bread slices until crispy on both sides."
+  },
+  {
+    "name": "Rice and Eggs Bowl",
+    "ingredients": ["rice", "eggs", "salt"],
+    "instructions": "Serve cooked rice topped with softly cooked eggs and salt."
+  },
+  {
+    "name": "Vegetable Rice Soup",
+    "ingredients": ["rice", "vegetables", "water", "salt"],
+    "instructions": "Simmer rice and vegetables in water with salt until soft."
+  },
+  {
+    "name": "Potato and Egg Skillet",
+    "ingredients": ["potatoes", "eggs", "olive oil", "salt"],
+    "instructions": "Fry potatoes in oil until golden, add eggs, and cook until set."
+  },
+  {
+    "name": "Cheese Rice",
+    "ingredients": ["rice", "cheese", "salt"],
+    "instructions": "Mix hot cooked rice with cheese and salt until melted."
+  },
+  {
+    "name": "Warm Vegetable Bowl",
+    "ingredients": ["vegetables", "olive oil", "salt"],
+    "instructions": "Cook vegetables in olive oil and season lightly before serving."
+  },
+  {
+    "name": "Egg and Bread Plate",
+    "ingredients": ["eggs", "bread"],
+    "instructions": "Cook eggs to preference and serve with bread."
+  }
+]
