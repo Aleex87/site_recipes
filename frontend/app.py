@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://site-recipes-backend.onrender.com"
+API_URL = "https://site-recipes-backend.onrender.com/recipes"
 
 INGREDIENT_GROUPS = {
     "Pasta & Grains": [
@@ -69,19 +69,24 @@ if st.button("Find recipes"):
     if not selected_ingredients:
         st.warning("Please select at least one ingredient.")
     else:
-        response = requests.post(
-            API_URL,
-            json={"available_ingredients": selected_ingredients},
-            timeout=30
-)
+        try:
+            response = requests.post(
+                API_URL,
+                json={"available_ingredients": selected_ingredients},
+                headers={"Content-Type": "application/json"},
+                timeout=30
+            )
 
+            if response.status_code != 200:
+                st.error(f"Backend error: {response.status_code}")
+                st.text(response.text)
+            else:
+                st.session_state.recipes = response.json()
+                st.session_state.selected_recipe = None
 
-        if response.status_code != 200:
-            st.error(f"Backend error: {response.status_code}")
-            st.text(response.text)
-        else:
-            st.session_state.recipes = response.json()
-            st.session_state.selected_recipe = None
+        except Exception as e:
+            st.error("Exception while calling backend")
+            st.text(str(e))
 
 # -----------------------------
 # Show results
